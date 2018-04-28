@@ -13,7 +13,7 @@ struct Meme {
     string nameOfMeme;
     string hash;
   }
-  function MemeToken() ERC721Token("MEME","awser123") public {
+  function MemeToken() ERC721Token("MEME","QmUqRKhS8GzCiFaiAQ4A9g2TFL4emCNDJYaRJa1ZByaUk7") public {
 
   }
 
